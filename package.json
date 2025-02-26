@@ -1,0 +1,21 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Rajpravinkumar/Recipes-App#readme",
+  "bugs": {
+    "url": "https://github.com/Rajpravinkumar/Recipes-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajpravinkumar/Recipes-App.git"
+  },
+  "license": "ISC",
+  "author": "RajPravin",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
